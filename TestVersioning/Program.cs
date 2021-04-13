@@ -10,6 +10,7 @@ namespace TestVersioning
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ini Branch Alfi");
         }
     }
 }
